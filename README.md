@@ -1,2 +1,3 @@
-# master-javascript
-Mastering JavaScript
+# Master JavaScript
+
+- [Class Inheritance](./class-inheritance)
