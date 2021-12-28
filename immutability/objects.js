@@ -4,8 +4,8 @@ const objectA = {
   active: true,
   behaviour: () => {
     console.log('doing!');
-  }
-}
+  },
+};
 
 const objectB = {
   text: 'text',
@@ -13,8 +13,8 @@ const objectB = {
   active: true,
   behaviour: () => {
     console.log('doing!');
-  }
-}
+  },
+};
 
 console.log('objectA == objectB   -->', objectA == objectB);
 console.log('objectA == objectA   -->', objectA == objectA);
