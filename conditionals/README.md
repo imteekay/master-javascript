@@ -7,3 +7,4 @@
 - [switch-case](./switch-case.js)
 - [switch-case-double-variables](./switch-case-double-variables.js)
 - [switch-case-triple-variables](./switch-case-triple-variables.js)
+- [object-map](./object-map.js)
