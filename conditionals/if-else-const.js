@@ -1,3 +1,5 @@
+const isActive = true;
+
 if (isActive) {
   const toggle = 'on';
 } else {
